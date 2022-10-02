@@ -8,4 +8,4 @@
 
 [![Hanif's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/hanifhefaz/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&exclude_repo=oop_fiit_stu)](https://github.com/hanifhefaz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/hanifhefaz/github-readme-stats)
