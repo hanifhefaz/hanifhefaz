@@ -1,20 +1,13 @@
-### Hi there 👋
+<h2 align="center">
+  Statistics
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
+</h3>
 
-<!--
-**hanifhefaz/hanifhefaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hanifhefaz&show_icons=true&theme=onedark"/>
+</p>
 
-Here are some ideas to get you started:
+[![Hanif's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/hanifhefaz/github-readme-activity-graph)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanifhefaz&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifhefaz&layout=compact)](https://github.com/hanifhefaz/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&width=100)](https://github.com/hanifhefaz/github-readme-stats)
