@@ -1,7 +1,6 @@
 <h2 align="center">
-  Statistics
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50">
-</h3>
+  My <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="50"> hub's statistics <img src="https://media.giphy.com/media/Mc1yxvp8fIGuYXHJI0/giphy-downsized-large.gif">
+</h2>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false"/>
