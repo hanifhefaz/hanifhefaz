@@ -15,4 +15,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hanifhefaz&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
 
-[![Hanif's github activity graph](https://activity-graph.herokuapp.com/graph?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/hanifhefaz/github-readme-activity-graph)
+
+![Hanif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
