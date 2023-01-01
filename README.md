@@ -2,8 +2,7 @@
   My <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="45"> hub's statistics
 </h1>
 <p align="center">
-  
-  [![Hefaz's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11273483)](https://stackoverflow.com/users/11273483/hefaz)
+  ![Hefaz's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11273483)
 </p>
 
 <p align="center" background-color="red"> 
