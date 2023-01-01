@@ -1,9 +1,10 @@
 <h1 align="center">
   My <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="45"> hub's statistics
 </h1>
-
-[![Hefaz's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11273483)](https://stackoverflow.com/users/11273483/hefaz)
-
+<p align="center">
+  
+  [![Hefaz's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11273483)](https://stackoverflow.com/users/11273483/hefaz)
+</p>
 
 <p align="center" background-color="red"> 
   Visitors count<br>
