@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false">
+    <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false" width="100%">
 </p>
 
 
