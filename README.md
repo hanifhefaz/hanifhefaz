@@ -9,7 +9,6 @@
 
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=hanifhefaz&show_icons=true&theme=onedark&bg_color=1F222E">
 </p>
 
 
