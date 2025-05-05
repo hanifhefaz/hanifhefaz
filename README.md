@@ -11,5 +11,4 @@
     <img src="https://streak-stats.demolab.com/?user=hanifhefaz&theme=monokai-metallian&hide_border=false" width="100%">
 </p>
 
-
-![Hanif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hanifhefaz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Hanif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifhefaz&theme=dracula)
